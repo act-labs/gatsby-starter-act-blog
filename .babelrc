@@ -1,0 +1,16 @@
+{
+    "presets": [
+        [
+            "babel-preset-gatsby",
+            {
+                "targets": {
+                "browsers": [">0.25%", "not dead"],
+                },
+            },
+        ],
+    ],
+    "plugins":[
+        ["import", { "libraryName": "antd", "libraryDirectory": "lib", "style": true}, "ant"],
+        ["import", { "libraryName": "actb", "libraryDirectory": "src/components"}, "actb"],
+    ]
+}

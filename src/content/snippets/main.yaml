@@ -1,0 +1,9 @@
+menu: 
+  - text: mdx
+    icon: file-text
+  - text: gatsby
+    icon: block
+  - text: graphql
+    icon: deployment-unit
+  - text: act blog
+    icon: read       

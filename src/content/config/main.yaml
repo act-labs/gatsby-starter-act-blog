@@ -1,0 +1,15 @@
+nav:
+  - text: home
+
+  - text: posts
+    slug: /posts/ 
+  - text: snippets
+    slug: /snippets/main/intro/
+copyright: Copyright © Act Labs
+social:
+  - icon: facebook
+    link: https://www.facebook.com/ACT7LAB
+
+  - icon: github
+    link: https://github.com/act-labs/gatsby-starter-act-blog
+
